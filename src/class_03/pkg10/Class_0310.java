@@ -17,6 +17,8 @@ public class Class_0310 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("today is 03/10");
+         System.out.println("Sending from git");
+        
     }
     
 }
